@@ -1,0 +1,49 @@
+.odd {
+	background-color: lightpink;
+	font-size: 18px;
+	font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.size {
+	font-size: 24px;
+}
+
+
+#two {
+	color: blue;
+	font-size: 36px;
+}
+
+#four {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.num6 {
+	border: dotted;
+	border-color: navy;
+}
+
+#font {
+	font-family: 'Amatic SC';
+	font-size: 45px;
+}
+
+.num7 {
+	border: dotted;
+	border-color: orangered;
+}
+
+h1, h2, h3 {
+	color: hotpink;
+	background-color: grey;
+}
+
+h2 {
+	background-color: honeydew;
+}
+
+h1 {
+	font-family: cursive;
+}

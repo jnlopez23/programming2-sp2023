@@ -1,0 +1,12 @@
+.service-change {
+	font-weight: bold;
+	color: red;
+}
+
+.normal-service {
+	color: lightgreen;
+}
+
+.all-trains {
+	font-size: 15px;
+}

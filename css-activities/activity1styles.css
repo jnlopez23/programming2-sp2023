@@ -1,0 +1,16 @@
+body{
+    margin-top: 25%;
+}
+
+.external-method{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+
+#myGreatButton {
+    background-color: blue;
+    font-size: 18px;
+}
