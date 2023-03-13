@@ -1,0 +1,52 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+  padding: 8px;
+}
+
+.title {
+  background: #e3f4ff;
+  margin-bottom: 8px;
+  margin-top: 4px;
+  font-size: 16px;
+  padding-left: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.content {
+  background: #e3f4ff;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.button-container {
+  background: #e3f4ff;
+  padding-left: 130px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-right: 24px auto;
+}
+
+button {
+  display: block;
+  background: white;
+  border: 1px solid #eee;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 24px auto;
+  margin-right: 24px auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}

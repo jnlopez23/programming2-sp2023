@@ -1,0 +1,20 @@
+#content {
+width: 540px;
+height: 350px;
+background-color: lightblue;
+padding-left: 80px;
+padding-right: 80px;
+padding-top: 95px;
+padding-bottom: 95px;
+border: 25px limegreen solid;
+margin-left: 165px;
+margin-right: 165px;
+margin-top: 55px;
+margin-bottom: 55px;
+}
+
+.container {
+width: 1080px;
+height: 700px;
+background-color: darkcyan ;
+}
